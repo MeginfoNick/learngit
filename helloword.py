@@ -1,1 +1,2 @@
-It's a mistake ,too.
+It's a mistake.
+pring("hello world");
